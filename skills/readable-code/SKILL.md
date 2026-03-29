@@ -7,7 +7,6 @@ description: >
   quality and clarity are implied. Also apply when the user pastes code and asks "what do you think?" or "how can
   I improve this?". Do NOT use for pure performance optimization, security audits, architecture design, or tasks
   where readability is explicitly out of scope.
-license: MIT
 ---
 
 # Law of Readable Code

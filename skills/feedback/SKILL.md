@@ -1,7 +1,7 @@
 ---
 name: feedback
 description: >
-  Design and run conversational feedback sessions for any context — products, events, workshops, services, teams, and more. Use this skill whenever the user wants to collect feedback, run a feedback session, create a feedback survey or form, design interview questions, do a retrospective, gather user opinions, or ask someone structured questions about an experience. Also trigger when the user says things like "let's get feedback on X", "run a feedback session", "I want to survey people about Y", or "help me design feedback questions". This skill handles the full loop: understand the context, design the right questions, run the session interactively, and produce a clean summary.
+  Design and run conversational feedback sessions for any context — products, events, workshops, services, teams, and more. Use this skill whenever the user wants to collect feedback, run a feedback session, create a feedback survey or form, design interview questions, do a retrospective, gather user opinions, or ask someone structured questions about an experience. Also trigger when the user says things like "let's get feedback on X", "run a feedback session", "I want to survey people about Y", or "help me design feedback questions". This skill handles the full loop: understanding the context, designing the right questions, running the session interactively, and producing a clean summary.
 ---
  
 # Feedback Skill
